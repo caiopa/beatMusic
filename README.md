@@ -18,6 +18,6 @@ Feito usando:
 Para executar o projeto siga os passoa abaixo:
 - Clone o respositorio,
 - Entre na raiz do projeto
-- De um npm install
-- Após instalar as dependências rode npm start para executar a aplicação
+- De um `npm install`
+- Após instalar as dependências rode `npm start` para executar a aplicação
 
