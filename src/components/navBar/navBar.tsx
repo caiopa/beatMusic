@@ -12,7 +12,7 @@ function NavBar() {
       hover:underline-offset-8 hover:decoration-red-500
       activ:underline activ:decoration-double
       activ:underline-offset-8 activ:decoration-red-500'
-      to={'/home'}>Pesquisa</Link>
+      to={'/home'}>Pesquisar</Link>
       <Link className='hover:underline hover:decoration-double
         hover:underline-offset-8 hover:decoration-red-500'
       to={'/favoritas'}>Favoritas</Link>
