@@ -1,0 +1,9 @@
+
+#login {
+    background-image: url(../../assets/bg.avif);
+    background-size: cover
+}
+
+.imgLogin {
+    max-width: 300px;
+}
